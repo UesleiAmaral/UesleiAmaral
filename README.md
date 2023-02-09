@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Olá, eu sou o Ueslei Amaral, motoboy e apaixonado pela tecnologia!
+## Olá, eu sou o Ueslei Amaral, Desenvolverdor FullStack e apaixonado pela tecnologia!
 
 <div align="center">
   <a href="https://github.com/UesleiAmaral">
