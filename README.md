@@ -52,16 +52,10 @@ class Skills extends Desenvolvedor {
 </a>
 
 [website]: https://ueslei.tech/
-[twitter]: https://twitter.com/SEUTWITTER
-[youtube]: https://www.youtube.com/user/SEUYOUTUBE/
-[instagram]: https://www.instagram.com/SEUINSTAGRAM/
 [linkedin]: https://www.linkedin.com/in/SEULINKEDIN/
 <br>
 
 #### Rede Sociais!
 
 🏡 [website][website] **|** 
-🐦 [twitter][twitter] **|** 
-📺 [youtube][youtube] **|** 
-📷 [instagram][instagram] **|** 
 👔 [linkedin][linkedin]
