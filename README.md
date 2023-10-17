@@ -1,6 +1,10 @@
 ### Olá devs 👋
 
-Gosto de criar ótimos softwares e ajudar outras pessoas a fazer o mesmo.
+Formação técnica em Informática para Internet ( Frontend, Backend, Mobile ) pelo Senac Campinas 2023 e habilitado no Programa de Formação em desenvolvimento Web Oracle Next Education 2020 e formação técnica como Torneiro Mecânico e Desenho Mecânico pelo Pronatec Senai Valinhos 2010.
+Experiência profissional com atendimento ao público, merchandising de produtos e gestão logística. 
+Habilidades com organização, resiliência, resolução de problemas e trabalho em equipe. 
+
+Aptidão para Frontend, html, css, javascript, react, styled-component, emotion-styled, Material UI, acessibilidade web, backend, CRUD, nodejs, express, documentação em swaggerUI, controle de versionamento com git e aperfeiçoando Java, nextjs e typescript.
 
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim
 
