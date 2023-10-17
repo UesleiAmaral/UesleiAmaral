@@ -52,11 +52,9 @@ class Skills extends Desenvolvedor {
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=UesleiAmaral&show_icons=true&theme=dracula&line_height=27" alt="**SEU NOME** github stats"/>
 </a>
 
-[website]: https://ueslei.tech/
 [linkedin]: https://www.linkedin.com/in/SEULINKEDIN/
 <br>
 
 #### Rede Sociais!
 
-🏡 [website][website] **|** 
 👔 [linkedin][linkedin]
